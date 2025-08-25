@@ -1,0 +1,45 @@
+
+.unique-section {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .unique-section h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #0c3050;
+  }
+  
+  .unique-box {
+    background-color:  #2484A9;
+    color: white;
+    padding: 30px;
+  
+    display: inline-block;
+    text-align: left;
+    border-radius: 8px;
+
+  }
+  
+  .unique-box h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  
+  .unique-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .unique-list p {
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
+  .unique-list p::before {
+    content: '✔';
+    color: white;
+    margin-right: 10px;
+  }
+  
