@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8a937fbf.css",
+    "main.js": "/static/js/main.b196edd1.js",
+    "static/js/453.d9dc401b.chunk.js": "/static/js/453.d9dc401b.chunk.js",
+    "static/media/Brochure6.png": "/static/media/Brochure6.160fc5b9481b2d86557e.png",
+    "static/media/background1.jpg": "/static/media/background1.74cfcc147ba33a8fffac.jpg",
+    "static/media/Brochure2.png": "/static/media/Brochure2.87d759387e3f29938672.png",
+    "static/media/your-nurses-image.jpg": "/static/media/your-nurses-image.5d3c82de4dad3c48d62c.jpg",
+    "static/media/Brochure1.png": "/static/media/Brochure1.9741b195c0330a1224e5.png",
+    "static/media/center-image.jpg": "/static/media/center-image.6d5aaa5c032fcfa2d0bd.jpg",
+    "static/media/Brochure5.jpg": "/static/media/Brochure5.5f117c7065f5bc1677c0.jpg",
+    "static/media/nurse1.jpg": "/static/media/nurse1.e126d9335e0e9f180331.jpg",
+    "static/media/nurse2.jpg": "/static/media/nurse2.3342429116bd749cc4c0.jpg",
+    "static/media/medical-nurse.jpg": "/static/media/medical-nurse.37b94b87a42ec6ef8c0e.jpg",
+    "static/media/nurse4.jpg": "/static/media/nurse4.c1c454d3760102639414.jpg",
+    "static/media/arrow-right.png": "/static/media/arrow-right.ca647dfc0fd031db38a7.png",
+    "static/media/nurse3.jpg": "/static/media/nurse3.54f44a5108fc13ed9693.jpg",
+    "static/media/Brochure3.jpg": "/static/media/Brochure3.af9103d4dc60af5f0891.jpg",
+    "static/media/Brochure4.jpg": "/static/media/Brochure4.da2ab74bd9aea53e8183.jpg",
+    "static/media/Brochure22.jpg": "/static/media/Brochure22.9dce4749daa8712d753d.jpg",
+    "index.html": "/index.html",
+    "main.8a937fbf.css.map": "/static/css/main.8a937fbf.css.map",
+    "main.b196edd1.js.map": "/static/js/main.b196edd1.js.map",
+    "453.d9dc401b.chunk.js.map": "/static/js/453.d9dc401b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a937fbf.css",
+    "static/js/main.b196edd1.js"
+  ]
+}
